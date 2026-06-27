@@ -8,7 +8,7 @@
       "name": "project-brief",
       "description": "Load project context and give a status brief before starting a session",
       "author": { "name": "xx" },
-      "source": { "source": "local", "path": "." }
+      "source": "."
     }
   ]
 }
