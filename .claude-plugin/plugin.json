@@ -1,0 +1,6 @@
+{
+  "name": "project-brief",
+  "description": "Load project context and give a status brief before starting a session",
+  "version": "1.0.0",
+  "author": { "name": "xx" }
+}
